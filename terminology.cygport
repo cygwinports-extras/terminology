@@ -1,0 +1,11 @@
+NAME="terminology"
+VERSION=0.3.0
+RELEASE=1
+CATEGORY="Shells"
+SUMMARY="Enlightenment terminal emulator"
+DESCRIPTION="This is a brand new EFL terminal emulator with some extra bells
+and whistles."
+HOMEPAGE="http://www.enlightenment.org/"
+GIT_URI="git://git.enlightenment.org/apps/terminology.git"
+GIT_TAG="v${VERSION}"
+inherit git
